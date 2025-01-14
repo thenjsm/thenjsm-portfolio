@@ -151,6 +151,14 @@ span:hover {
     height: auto; /* Maintain the aspect ratio */
 }
 
+/* Redirect */
+
+.redirect-images {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    overflow: hidden;
+}
 
 
 /* Footer */
