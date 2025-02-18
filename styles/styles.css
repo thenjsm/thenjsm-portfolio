@@ -151,6 +151,10 @@ span:hover {
     height: auto; /* Maintain the aspect ratio */
 }
 
+.latherluminary {
+    display: none;
+}
+
 /* Redirect */
 
 .redirect-images {
