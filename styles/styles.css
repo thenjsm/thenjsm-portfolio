@@ -238,11 +238,7 @@ footer, footer * {
 /* Nav */
 
 .navbar-brand img {
-    height: 100px; 
-}
-
-.navbar-nav .nav-item {
-    margin-right: 10px; 
+    height: 130px; 
 }
 
 /* Footer */
@@ -254,11 +250,7 @@ footer, footer * {
     /* Nav */
     
     .navbar-brand img {
-        height: 70px; 
-    }
-    
-    .navbar-nav .nav-item {
-        margin-right: 8px; 
+        height: 90px; 
     }
     
     /* Footer */
