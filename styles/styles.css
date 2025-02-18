@@ -243,6 +243,14 @@ footer, footer * {
 
 /* Footer */
 
+.icon {
+    width: 25px; /* Adjust size as needed */
+}
+
+footer {
+    padding: 30px;
+}
+
 }
 
 @media (max-width:560px) {
@@ -254,6 +262,14 @@ footer, footer * {
     }
     
     /* Footer */
+
+    .icon {
+        width: 20px; /* Adjust size as needed */
+    }
+
+    footer {
+        padding: 20px;
+    }
     
     }
 
