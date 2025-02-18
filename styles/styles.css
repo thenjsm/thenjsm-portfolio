@@ -231,4 +231,38 @@ footer, footer * {
     transform: translateX(10px);
 }
 
+/* Media Queries */
+
+@media (max-width:769px) {
+
+/* Nav */
+
+.navbar-brand img {
+    height: 100px; 
+}
+
+.navbar-nav .nav-item {
+    margin-right: 10px; 
+}
+
+/* Footer */
+
+}
+
+@media (max-width:560px) {
+
+    /* Nav */
+    
+    .navbar-brand img {
+        height: 70px; 
+    }
+    
+    .navbar-nav .nav-item {
+        margin-right: 8px; 
+    }
+    
+    /* Footer */
+    
+    }
+
 /* E9522B */
